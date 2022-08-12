@@ -1,1 +1,2 @@
-# Figuras-en-C-
+# Figuras-en-cpp
+Miscelánea de ejercicios para practicar
